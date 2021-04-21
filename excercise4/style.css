@@ -1,0 +1,13 @@
+body {
+    padding: .8em;
+}
+p {
+    border: 3px solid purple;
+}
+li {
+    display: inline-block;
+    border: 3px solid blue;
+}
+span {
+    display: block;
+}
